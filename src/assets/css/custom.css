@@ -1,0 +1,961 @@
+@media only screen and (max-width: 1400px) {
+.admin-dashboard.navbar-inverse.navbar>.container-fluid .navbar-brand{width: 310px; margin-bottom: 12px;}
+.table-filter { width: 74%;}
+.manage-user .panel-heading .checkbox label{font-size: 15px;}
+
+.fetching-premium {padding: 22% 0 22% 0;}
+/* Landing Page css start */
+.landing-block h3{padding-top: 55px}
+.landing-block img.arrow{top: 115px;}
+/* Landing Page css end */
+}
+
+
+@media only screen and (max-width: 1250px) {
+.employee-dashboard .message-of-day{width:70%;}
+.admin-dashboard .message-of-day{width: 70%;}
+.admin-sidemenu.sidemenu{ top: 106px;}
+.admin-dashboard.navbar-inverse.navbar>.container-fluid .navbar-brand{ margin-bottom: 0px; width: auto;}
+
+.fetching-premium {padding: 22% 0 22% 0;}
+/** New css start 06122018**/
+
+/** New css end 06122018**/
+}
+
+
+@media only screen and (max-width: 1199px) {
+.employee-dashboard .message-of-day{width: 69%;}
+.admin-dashboard .message-of-day{width: 58%;}
+.admin-sidemenu.sidemenu.leftMenu.openMenu ~ .main{padding-left: 70px;}
+.login-section{background-size: contain;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li a{margin-right: 0; font-size: 13px; padding-left:10px; padding-right:10px;}
+.quote-main .well .dob i{margin-left: 5px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 48px; padding-left: 6px; padding-right: 6px; text-align: center;}
+.quote-main .well .dob .date-year{width: 58px; padding-left: 6px; padding-right: 6px; text-align: center;}
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width: 88%;}
+.quote-main .driver-information-form .quote-radio-main .radio{margin-right: 18px;}
+.quote-main .driver-information-form .driver-marital-status.quote-radio-main .radio{margin-right: 10px;}
+.quote-main .driver-information-form .dob .date-month, .quote-main .driver-information-form .dob .date-day{width: 44px;}
+.your-quote h4{margin-top: 0; margin-bottom: 20px;}
+.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote{padding-top: 20px;}
+.quote-main.panel.with-nav-tabs .policy-left .panel .panel-body{padding: 30px 14px;}
+.policy-detail{width: 263px;height: 263px;}
+.policy-limit .control-label.col-sm-3, .policy-limit .control-label.col-md-5{font-size:13px;}
+.fetching-premium {padding: 22% 0 22% 0;}
+.employee-dashboard .message-of-day span{width: 90%;}
+/*Policy Details Page Css */
+.aside-note, .aside-customer{max-width:205px;}
+/*Policy Details Page Css End*/
+/*Policy Payment Page Css */
+.policy-card-details .policy-field-wapper .form-group:last-child .col-sm-4:last-child .form-control{width: 68%;}
+/*Policy Payment Page Css End*/
+.policy-detail .btn-red{bottom: -40px;}
+/* Upload Document Page css start*/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg {padding: 0px;width: 22.75%;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li{width: 22.75%;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(6n+1) {margin-left: 8px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(6n) {margin-right: 8px;}
+/* Upload Document Page css end*/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg.muploadimg.mrimg {margin-left: 0;}
+/* Emp Payment Page Card CSS start */
+/* .quote-main .tab-content .well.payment-card .experiation .col-md-3 {padding-right: 0;}
+.quote-main .tab-content .well.payment-card .experiation .col-md-3:nth-child(2) {padding: 0 9px;}
+.quote-main .tab-content .well.payment-card .experiation .col-md-5 {padding-left: 0;} */
+.quote-main .tab-content .well.payment-card .cepaymentpage .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .cepaymentpage .form-group.cardno input{width: 92%}
+.quote-main .tab-content .well.payment-card .experiation .col-md-5 .form-control {width: 72%;display: inline-block;}
+.quote-main .tab-content .well.payment-card .cepaymentpage .experiation .col-md-3{width: 25%;}
+.quote-main .tab-content .well.payment-card .cepaymentpage img.card-icon {right: 12%;}
+.policy-main .policy-choose-plan .well{min-height: 217px;}
+.policy-main .policy-choose-plan .well.cpp-well{min-height: 160px;}
+/* Emp Payment Page Card CSS end */
+
+/* Emp Manual Receipt Page Card CSS start*/
+.quote-main .tab-content .well.payment-card .receiptpage .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .receiptpage .form-group.cardno input{width: 100%;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-4 .form-control{width: 92%;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-3{width: 22%;padding-right: 15px;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-3:nth-child(2){padding: 0 7px;}
+/* Emp Manual Receipt Page Card CSS end*/
+
+/* Landing second(car) Page css start */
+.landing-block img.arrow, .landingcar-block img.arrow { position: absolute;right: -40px;top: 150px;}
+.landing-block .landing-block-inner{padding: 230px 0px 205px;}
+/* Landing second(car) Page css end */
+/*Customer Profile css start*/
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li {width: 100%;display: block;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li span.pull-right {display: block;width: 100%;float: none !important;padding: 5px 0 0;}
+/*Customer Profile css end*/
+
+/** New css start 06122018**/
+
+.pr{padding-right: 5px;}
+.pl{padding-left: 5px;}
+.choose-radio {margin: 10px 0 27px;}
+/** New css end 06122018**/
+
+.policy-limit-custom .col-sm-5 {width: 44%;}
+.policy-limit-custom .col-sm-2 {width: 12%;}
+
+}
+
+
+@media only screen and (max-width: 991px) {
+.login-section{margin: 20px 0; min-height: 480px;}		
+.admin-dashboard.navbar-inverse .navbar-nav.navbar-right{margin-top: 10px;}
+.admin-sidemenu.sidemenu{ top:80px;}
+.admin-dashboard.navbar-inverse .navbar-brand img {width: 220px;}
+.table-filter{ width: 65%;}
+/*
+ * off Canvas sidebar
+ * --------------------------------------------------
+ */
+.employee-offcanvas.row-offcanvas {/* position: relative; */ -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out; transition: all 0.5s ease-out;/* width:calc(100% + 300px);*/}
+/*.row-offcanvas-left{ left: -300px;}*/
+/*.row-offcanvas-left.active { left: 0;}*/
+/*.employee-offcanvas #sidebar.sidebar-offcanvas{margin-left: -300px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active{margin-left: 0;}
+.employee-offcanvas #main{padding-left: 20px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 320px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas .sidebar-toggle .fa-chevron-left{ display: none;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active .fa-chevron-left{ display: inline-block; }
+.employee-offcanvas #sidebar.sidebar-offcanvas.active .fa-chevron-right{display: none;}
+.employee-offcanvas .sidebar-toggle { position: absolute; top: 0; z-index: 1; right:-36px; display: inline-block;}
+.employee-offcanvas .sidebar-toggle .btn{ border-top-left-radius: 0; border-bottom-left-radius: 0;}*/
+.quote-main .well .quote-radio-main .radio{margin-right: 30px;}
+.quote-main .tab-content .well{padding-left: 20px; padding-right: 20px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width:42px;}
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width: 86%;}
+.quote-main .driver-information-form .quote-radio-main .radio{margin-right: 18px;}
+.quote-main .driver-information-form .dob .date-month, .quote-main .driver-information-form .dob .date-day{width:40px;}
+.quote-main .driver-information-form .dob .date-year{width: 56px;}
+
+.quote-main.panel.with-nav-tabs .policy-left .panel-heading .policy-name{font-size: 16px;margin-bottom: 8px;}
+.quote-main.panel.with-nav-tabs .policy-left .panel-heading .policy-cost{font-size: 15px;}
+.policy-left .panel-title > a:before{margin-top: 2px;}
+.policy-detail {width: 188px;height: 188px;}
+.policy-text{font-size: 17px; }
+.policy-text h5{font-size: 22px; margin-top: 0;}
+.policy-text span{font-size: 16px;}
+.policy-text span sub{font-size: 12px;}
+.policy-detail .btn-red{font-size: 15px;line-height: 24px;}
+.policy-right .table thead th{font-size: 13px;}
+/*.policy-coverages form .form-group .control-label{min-height:42px;}
+.policy-coverages form .form-group .control-label .limit-cost{ display: block; float: none;text-align: right;}*/
+.policy-right .re-quote .btn{margin-bottom: 6px;}
+.tab-left-arrow{left: -3px;}
+.tab-right-arrow{right: -3px;}
+/*Policy Details Page Css*/
+.excluded-drivers ul li{min-width: 100px;}
+.excluded-drivers ul li:last-child{min-width:auto;}
+.policy-vehicle-details .policy-field-wapper > ul > li{margin-right: 14px;}
+.policy-vehicle-details .policy-field-wapper > ul > li span{margin-right: 10px;}
+.aside-note.affix-bottom, .aside-note.affix,
+.aside-customer.affix-bottom, .aside-customer.affix { position: static ;  top: inherit !important;}
+.aside-note, .aside-customer{max-width: 270px; margin:15px auto 0;}
+.policy-main.quote-main.with-nav-tabs.panel-primary .nav-tabs > li{vertical-align: middle;}
+.policy-main.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{line-height: initial; height: 46px; align-items: center; display: flex; justify-content: center;}
+/*Policy Details Page Css End*/
+.update-fee-text{ font-size: 14px;}
+.policy-detail .btn-red{bottom: -30px;}
+/* Admin Emp sign start */
+
+/* Admin Emp sign end */
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(6n+1){margin-left: 7px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n+1){margin-left: 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n){margin-right: 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li,
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg{width: 17.58%;height: 101px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.upload-inner{padding: 38px 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg label img{width: 90px;height: 101px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li .btn-uploadoc{font-size: 14px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .form-group .col-md-10{width: 66%;}
+/* Emp Payment Page Card CSS start */
+.quote-main .tab-content .well.payment-card .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .form-group.cardno input{width: 99%;}
+.quote-main .tab-content .well.payment-card .cepaymentpage .experiation .col-md-3 {width: 23%;}
+
+.quote-main .tab-content .well.payment-card .experiation .col-md-5 .form-control {width: 68%;display: inline-block;}
+.aside-note img.pin-img, .aside-customer img.pin-img{left: 50%;}
+.policy-main.quote-main .tab-content .policy-field-wapper img.card-icon{right: 35px;}
+/* Emp Payment Page Card CSS end */
+
+/* Landing Page css start */
+.landing-block img.arrow{display: none;}
+.landing-block .landing-block-inner{padding: 45px 0;}
+/* Landing Page css end */
+
+.quote-main .tab-content .well.payment-card .receiptpage .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .receiptpage .form-group.cardno input{width: 100%;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-3 {width: 36%;padding-right: 15px;}
+/* Landing second(car) Page css start */
+.landingcar-block h3, .landingcar-block h4, .landingcar-block img.car{padding-left: 0;}
+
+/* Landing second(car) Page css end */
+/*Customer Profile css start*/
+.quote-main .tab-content .well.additional-information.customerprofile h3 {border-radius: 0;}
+.policy-main.quote-main .tab-content .customerprofile .policy-field-wapper .cprofuleblr {border-right: none;border-left: none;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li {width: 100%;display: block;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li span.pull-right {display: block;width: 100%;float: none !important;padding: 5px 0 0;}
+/*Customer Profile css end*/
+
+/** New css start 06122018**/
+.quote-main .tab-content .well.payment-card .receiptpage .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .receiptpage .form-group.cardno input{width: 95%;}
+.choose-radio {margin: 0px 0 17px;}
+/** New css end 06122018**/
+
+.policy-limit-custom .col-sm-5 {width: 42%;}
+.policy-limit-custom .col-sm-2 {width: 16%;margin-top: 30px;}
+
+}
+
+
+@media only screen and (max-width: 767px) {
+.login-section{background-position: left 34px;  margin: 20px 0;background-size: auto 40%; min-height: 460px;}
+.admin-dashboard.navbar-inverse .navbar-brand img{width: 120px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{position: absolute;}
+.admin-dashboard.navbar-inverse .header-top-div  .navbar-nav > li {display: inline-block;}
+.admin-dashboard .header-top-div .navbar-nav .open .dropdown-menu{position: absolute;background-color: #fff;border: 1px solid rgba(0,0,0,.15);box-shadow: 0 6px 12px rgba(0,0,0,.175); /*left: inherit;right: 0;*/}
+.admin-dashboard .header-bottom-div .navbar-collapse{border:none;box-shadow: inherit; }
+.admin-dashboard.navbar-inverse .navbar-nav.navbar-right{margin-top: 0; margin-bottom: 0;}
+.admin-dashboard .header-top-div {position: absolute; top:0px; right:20px;}
+.admin-dashboard.navbar-inverse .navbar-brand{padding-left: 0;}
+.admin-dashboard.navbar-inverse .navbar-toggle{margin-top: 13px;}
+.admin-dashboard .header-top-div .dropdown a{padding-right: 0; padding-left: 10px;}
+.admin-dashboard .header-top-div .navbar-nav .dropdown:last-child .dropdown-menu{left: inherit; right: 0;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{left: inherit; right:0px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 21px;}
+.admin-sidemenu.sidemenu{ top:56px;}
+.table-filter{float: none;width: 100%;}
+.manage-user h2{font-size: 28px;}
+.table-filter .btn-red{margin-bottom: 10px;}
+.employee-dashboard.navbar-inverse .navbar-brand img{width: 120px;}
+.policy-chart{margin-bottom: 15px;}
+.policy-box ul{text-align: center;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{position: absolute;}
+.employee-dashboard.navbar-inverse .header-top-div  .navbar-nav > li {display: inline-block;}
+.employee-dashboard .header-top-div .navbar-nav .open .dropdown-menu{position: absolute;background-color: #fff;border: 1px solid rgba(0,0,0,.15);box-shadow: 0 6px 12px rgba(0,0,0,.175); /*left: inherit;right: 0;*/}
+.employee-dashboard .header-bottom-div .navbar-collapse{border:none;box-shadow: inherit; }
+.employee-dashboard .header-top-div {position: absolute; top:4px; right: 80px;}
+.employee-dashboard.navbar-inverse .navbar-brand{padding-left: 0;}
+.employee-dashboard.navbar-inverse .navbar-toggle{margin-top: 13px;}
+.employee-dashboard .header-top-div .dropdown a{padding-right: 0; padding-left: 10px;}
+.employee-dashboard .header-top-div .navbar-nav .dropdown:last-child .dropdown-menu{left: inherit; right: 0;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{left: inherit; right:0px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 21px;}
+.quote-main .well-main .form-group{margin-bottom: 15px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li{display:table-cell;width: 1%;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 22%; margin-right: 10px;}
+ .quote-main .well .dob .date-day{margin-left: 10px;}
+.quote-main .well .dob .date-year{ width: 36%; margin-left: 10px; margin-right: 10px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{margin-bottom: 0;font-size: 12px; }
+/*.quote-main.with-nav-tabs.panel-primary .nav-tabs > li.active > a:before{left: 37%;}*/
+.quote-main .well .control-label{font-size: 14px;}
+.driver-information-form .btn-orange{float: right; margin-top: 20px;}
+.quote-main .vehicle-information-form .well .quote-radio-main .radio{margin-right: 10px;}
+.quote-main .vehicle-information-form .well .quote-radio-main:last-child .radio:last-child{margin-right: 0;}
+.quote-main .well.additional-information .control-label{padding-top: 0;}
+.additional-information-form{ padding-left: 0; padding-right: 0; }
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) { width: 90%;}
+.policy-main.quote-main .tab-content .signdoc-title .app-quoteno {text-align: left;position: static;top: 0;margin-bottom: 10px;}
+.policy-left{margin-top: 30px;}
+.policy-limit .control-label.col-sm-3, .policy-limit .control-label.col-md-5{font-size: 15px; }
+.policy-limit .col-sm-6:first-child .col-md-7{padding-right: 15px;}
+.policy-limit .col-xs-12:first-child {margin-bottom: 15px;}
+.search-policy{padding: 50px 0 0;}
+.filter-search .form-group{margin-bottom:15px;}
+.policy-right .re-quote .btn{margin-bottom: 0px;}
+.tab-left-arrow{display: none;}
+.tab-right-arrow{display: none;}
+.violations-popup.policyproducer-popup table tbody{ display: table-row-group;}
+.violations-popup.policyproducer-popup table thead{ display: table-header-group;}
+.violations-popup.policyproducer-popup table tbody tr{ display: table-row;}
+
+.customer-discount-details .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width: 85%;}
+
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+/* Emp Payment Page Card CSS start */
+.policy-main .policy-choose-plan .well{min-height: 100%;}
+.quote-main .tab-content .well.payment-card .cepaymentpage .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .cepaymentpage .form-group.cardno input {width: 100%;}
+.quote-main .tab-content .well.payment-card .cepaymentpage .experiation .col-md-3 {width: 50%;}
+.quote-main .tab-content .well.payment-card .experiation .col-md-5 .form-control {width: 82%;}
+.quote-main .tab-content .well.payment-card .cepaymentpage img.card-icon {right: 3%;}
+.quote-main .tab-content .well.payment-card .form-group.nameoncard input, .quote-main .tab-content .well.payment-card .form-group.cardno input{width: 100%;}
+.aside-note img.pin-img,  .aside-customer img.pin-img{left: 50%;top: -17px;}
+/* Emp Payment Page Card CSS end */
+
+/* Landing Page css start */
+.landing-block{background-image: none;}
+.landing-block h3, .landingcar-block h3{padding: 45px 5px 0;font-size: 26px;}
+.landing-block h4, .landingcar-block h4{font-size: 22px;margin-bottom: 35px;padding: 0 5px;margin-top: 0;}
+.landing-block .landing-block-inner{padding: 20px 10px;}
+.landing-block img.visible-xs {width: 100%;}
+.landing-block .landing-block-inner .landing-form-div .form-group, .landingcar-block .landing-block-inner .landing-form-div .form-group {width: 50%;display: inline-block;}
+.landing-block .landing-block-inner .btn-gray{margin-top: 13px;}
+.landing-block, .landingcar-block{min-height: auto;}
+.landingcar-block .landing-block-inner{padding: 65px 10px 20px;}
+.landing-block h3{position: absolute;z-index: 9;padding: 0;top: 45px;left: 20px;}
+.landing-block h4{position: absolute;z-index: 9;top: 75px;}
+.landing-block .col-sm-8{padding-left: 0;padding-right: 0;}
+.landing-block h4{left: 15px;}
+/* Landing Page css end */
+
+
+/*Emp Manual Receipt Page start*/
+.policy-main.quote-main .tab-content .policy-field-wapper.receiptpage .pl0 {padding-left: 0;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-4 .form-control{width: 100%;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-3:nth-child(2) {padding: 0 15px;}
+.quote-main .tab-content .well.payment-card .receiptpage .experiation .col-md-3{width: 50%;}
+.policy-main.quote-main .tab-content .policy-field-wapper .pay-method-chec-radio label.checkbox-inline input[type=checkbox]:checked+div::before{content: unset}
+/*Emp Manual Receipt Page end*/
+/* lianholder tag css start */
+.lianholder typeahead-container ul.dropdown-menu {width: 270px;}
+/* lianholder tag css end */
+/*Customer Profile css start*/
+.policy-main.quote-main .tab-content .policy-field-wapper .customerprofile-inner:first-child{border-right: none;}
+.policy-main.quote-main .tab-content .policy-field-wapper .customerprofile-inner:first-child{border-bottom: 1px solid #d3d3d3;margin: 0 0 25px;}
+.cpsidebar-nav{top: 0;}
+#cpwrapper.toggled #cppage-content-wrapper, #cppage-content-wrapper{position: relative;padding: 0;}
+#cpsidebar-wrapper{left: 265px;}
+#cpsidebar-wrapper {width: 250px;}
+#cpwrapper.toggled #cpsidebar-wrapper {
+    width: 0;
+}
+.quote-main .panel-body.cprofilep15{padding: 30px 15px 0;}
+.cpsidebar-nav li.cpsidebar-brand {box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.8);-webkit-box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.8);-ms-box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.8);-moz-box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.8);-o-box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.8);width: 245px;background: #fff;}
+.quote-main .tab-content .well.additional-information.customerprofile h3 {border-radius: 0;}
+.policy-main.quote-main .tab-content .customerprofile .policy-field-wapper .cprofuleblr {border-right: none;border-left: none;border-top: 1px solid #d3d3d3;border-bottom: 1px solid #d3d3d3;padding: 15px 0 20px;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li {width: 100%;display: block;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile ul.list-unstyled.account-summary>li span.pull-right {display: block;width: 100%;float: none !important;padding: 5px 0 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper.company-profile .btn-orange {margin: 20px 0 0;}
+/*Customer Profile css end*/
+/* Upload Document Page start*/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg{width: 30.30%;height: auto;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg label img{height: 90px;}  
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n){margin-right: 8px;} 
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n+1){margin-left: 8px;}
+/* Upload Document Page end*/
+
+/** New css start 06122018**/
+body.bodyoverflow{overflow-x: hidden;}
+/** New css end 06122018**/
+.pagination-size .pagination>li>a {padding: 4px 6px;font-size: 10px;}
+.policy-limit-custom .col-sm-5 {width: 100%;}
+.policy-limit-custom .col-sm-2 {width: 100%;margin-top: 0;padding: 0 30px;}
+
+}
+
+
+@media only screen and (max-width: 1250px) {
+.employee-dashboard .message-of-day{width:70%;}
+.admin-dashboard .message-of-day{width: 70%;}
+.admin-sidemenu.sidemenu{ top: 106px;}
+.admin-dashboard.navbar-inverse.navbar>.container-fluid .navbar-brand{ margin-bottom: 0px; width: auto;}
+.fetching-premium {padding: 22% 0 22% 0;}
+
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right:before{display: none;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right{margin-right: 0;}
+/* .employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li a{padding-left: 15px;padding-right: 15px;} */
+
+.quote-main .well .dob i{ top:38px; }
+
+/*Policy Details Page Css*/
+/* .aside-note{margin:35px auto 0;} */
+/*Policy Details Page Css End*/
+/*Policy Payment Page Css */
+.policy-card-details .policy-field-wapper .notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){margin-bottom:15px;}
+.policy-card-details .policy-field-wapper .form-group:last-child .col-sm-4:last-child .form-control{width:73%;}
+.policy-card-details .notification-method i{float: none;}
+/*Policy Payment Page Css End*/
+/* Admin Emp sign start */
+.signature-page .policy-field-wapper .form-group .iniitalsignimg {margin-bottom: 15px;}
+.quote-main .tab-content .well.additional-information.signature-page h3 {line-height: 25px;padding: 5px 18px;}
+.policy-main.quote-main .tab-content .signature-page .policy-field-wapper .text-center-inner{padding: 0 0 10px;}
+.signature-page .policy-field-wapper .form-group .iniitalsignimg.col-sm-2{max-width: 100%;float: left;margin-top: 10px;width: 21%;}
+/* Admin Emp sign end */
+/** Emp Upload Doc start **/
+/* .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n+1){margin-left: 7px;padding: 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li:nth-child(5n){margin-right: 7px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li,
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg{width: 15%;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg label img{width: 114px; height: 100px;} */
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.upload-inner{padding: 39px 0;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .form-group .col-md-10{width: 100%;}
+
+/** Emp Upload Doc End **/
+}
+
+
+@media only screen and (max-width: 640px) {
+.admin-sidemenu #sidebar.sidebar-offcanvas{margin-left: -260px;}
+.admin-sidemenu #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 280px;}
+.admin-sidemenu #sidebar{ min-width: 260px; max-width: 260px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas{margin-left: -260px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 280px;}
+.employee-offcanvas #sidebar{ min-width: 260px; max-width: 260px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{ min-width: 300px; left: -140px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 130px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{ min-width: 300px; left: -160px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right:109px;}
+.manage-user .panel-heading{padding:15px 10px;}
+.manage-user .panel-heading .checkbox label{font-size: 14px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{padding: 10px 8px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 18%}
+.quote-main .well .quote-radio-main .radio{margin-right: 20px;}
+.quote-btns .btn-red, .quote-btns .btn-orange{min-width: 180px;}
+.quote-main.panel.with-nav-tabs .panel-heading .col-xs-12{padding-left:0px; padding-right:0px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{font-size: 11px; padding: 10px 0px; font-weight: 400;}
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+/** Emp Sign Page **/
+.policy-main.quote-main .tab-content .signature-page .policy-field-wapper .vertical-align{display: block;}
+/** Emp Manual Receipt Page **/
+.policy-main.quote-main .tab-content .policy-field-wapper ul.pay-method-chec-radio li.pay-method-inner, .policy-main.quote-main .tab-content .policy-field-wapper ul.pay-method-chec-radio li.pay-method-inner label.checkbox-inline, 
+.policy-main.quote-main .tab-content .policy-field-wapper .pay-method-chec-radio .checkbox-inline .pay-method-name{width: 100%;text-align: center;}
+.policy-main.quote-main .tab-content .policy-field-wapper .pay-method-chec-radio .checkbox-inline .pay-method-name{margin-bottom: 5px;}
+/** Emp Manual Receipt Page End**/
+/* Upload Document Page start*/
+.policy-main.quote-main .tab-co	ntent .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg{width: 21.8%;height: 90px;}
+/* Upload Document Page end*/
+
+/** New css start 06122018**/
+
+/** New css end 06122018**/
+}
+
+
+@media only screen and (max-width: 1199px) {
+.employee-dashboard .message-of-day{width: 64%;}
+.admin-dashboard .message-of-day{width: 58%;}
+.admin-sidemenu.sidemenu.leftMenu.openMenu ~ .main{padding-left: 70px;}
+.login-section{background-size: contain;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li{padding: 10px;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li a{margin-right: 0; font-size: 13px;padding: 0;/*  padding-left:10px; padding-right:10px; */}
+.quote-main .well .dob i{margin-left: 5px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 48px; padding-left: 6px; padding-right: 6px; text-align: center;}
+.quote-main .well .dob .date-year{width: 58px; padding-left: 6px; padding-right: 6px; text-align: center;}
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn), .notification-method input.discountEmail{width: 88%;}
+.quote-main .driver-information-form .quote-radio-main .radio{margin-right: 18px;}
+.quote-main .driver-information-form .driver-marital-status.quote-radio-main .radio{margin-right: 10px;}
+.quote-main .driver-information-form .dob .date-month, .quote-main .driver-information-form .dob .date-day{width: 44px;}
+.your-quote h4{margin-top: 0; margin-bottom: 20px;}
+.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote{padding-top: 20px;}
+.quote-main.panel.with-nav-tabs .policy-left .panel .panel-body{padding: 30px 14px;}
+.policy-detail{width: 263px;height: 263px;}
+.policy-detail .btn-red{bottom: 0;}
+.policy-limit .control-label.col-sm-3, .policy-limit .control-label.col-md-5{font-size:13px;}
+.fetching-premium {padding: 22% 0 22% 0;}
+.employee-dashboard .message-of-day span{width: 90%;}
+/* Emap. pgae policyDetails*/
+.aside-note h3, .aside-customer h3{margin-top: 15px;}
+/* Emap. pgae policyDetails*/
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-quote .customer-start .start-form .col-md-8{padding-right: 5px;}
+.customer-quote .customer-start .start-form .form-group.customer-address .state{ font-size:13px;}
+.customer-car-img{max-width: 100%; margin-left: 0;}
+.customer-footer li{padding: 0 16px;}
+/*** Customner Rate Page **/
+.select-policy-outer .policy-detail{margin-left: 30px;}
+/*** lianholder css start **/
+.lianholder typeahead-container.dropdown.open {width: 91%;}
+/*** lianholder css end **/
+}
+
+
+@media only screen and (max-width: 991px) {
+.login-section{margin: 20px 0; min-height: 480px;}		
+.admin-dashboard.navbar-inverse .navbar-nav.navbar-right{margin-top: 10px;}
+.admin-sidemenu.sidemenu{ top:80px;}
+.admin-dashboard.navbar-inverse .navbar-brand img {width: 220px;}
+.table-filter{ width: 65%;}
+/*
+ * off Canvas sidebar
+ * --------------------------------------------------
+ */
+.employee-offcanvas.row-offcanvas {/* position: relative; */ -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out; transition: all 0.5s ease-out;/* width:calc(100% + 300px);*/}
+/*.row-offcanvas-left{ left: -300px;}*/
+/*.row-offcanvas-left.active { left: 0;}*/
+/*.employee-offcanvas #sidebar.sidebar-offcanvas{margin-left: -300px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active{margin-left: 0;}
+.employee-offcanvas #main{padding-left: 20px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 320px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas .sidebar-toggle .fa-chevron-left{ display: none;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active .fa-chevron-left{ display: inline-block; }
+.employee-offcanvas #sidebar.sidebar-offcanvas.active .fa-chevron-right{display: none;}
+.employee-offcanvas .sidebar-toggle { position: absolute; top: 0; z-index: 1; right:-36px; display: inline-block;}
+.employee-offcanvas .sidebar-toggle .btn{ border-top-left-radius: 0; border-bottom-left-radius: 0;}*/
+.quote-main .well .quote-radio-main .radio{margin-right: 30px;}
+.quote-main .tab-content .well{padding-left: 15px; padding-right: 15px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width:42px;}
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn), .notification-method input.discountEmail{width: 86%;}
+.quote-main .driver-information-form .quote-radio-main .radio{margin-right: 18px;}
+.quote-main .driver-information-form .dob .date-month, .quote-main .driver-information-form .dob .date-day{width:40px;}
+.quote-main .driver-information-form .dob .date-year{width: 56px;}
+
+.quote-main.panel.with-nav-tabs .policy-left .panel-heading .policy-name{font-size: 16px;margin-bottom: 8px;}
+.quote-main.panel.with-nav-tabs .policy-left .panel-heading .policy-cost{font-size: 15px;}
+.policy-left .panel-title > a:before{margin-top: 2px;}
+.policy-detail {width: 188px;height: 188px;}
+.policy-text{font-size: 17px; }
+.policy-text h5{font-size: 22px; margin-top: 0;}
+.policy-text span{font-size: 16px;}
+.policy-text span sub{font-size: 12px;}
+.policy-detail .btn-red{font-size: 15px;line-height: 24px;bottom: 0;}
+.policy-right .table thead th{font-size: 13px;}
+/*.policy-coverages form .form-group .control-label{min-height:42px;}
+.policy-coverages form .form-group .control-label .limit-cost{ display: block; float: none;text-align: right;}*/
+.policy-right .re-quote .btn{margin-bottom: 6px;}
+.tab-left-arrow{left: -3px;}
+.tab-right-arrow{right: -3px;}
+
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-start h2{font-size: 25px;}
+/* .customer-quote .customer-start .start-form .col-md-8{padding-right: 10px;}
+.customer-quote .customer-start .start-form .col-sm-6{ margin-top: 12px;} */
+/* .license-details .col-sm-6.select-state-country, .customer-driver-details .select-dropdown{padding-right: 10px;} */
+.customer-footer li.call-details{min-width: 232px;}
+.customer-footer li{padding: 0 10px;}
+/*.customer-driver-details .radio-label.marital-status{ margin-left: 130px;}*/
+.customer-driver-details .choose-radio .radio-label{ display: block;}
+/* .customer-driver-details .choose-radio .col-sm-7{text-align: left; padding-left: 15px} */
+.customer-driver-details .choose-radio .radio{margin-top: 0; margin-bottom: 0;}
+.customer-driver-details .form-group.license-details .choose-radio .radio-label{display: inline-block;min-width: auto;}/* For Driver Page SR22 */
+.customer-driver-details .form-group.license-details .choose-radio .radio {margin: 10px 0;}/* For Driver Page SR22 */
+/*.customer-Rate*/
+.select-policy-outer .policy-detail{margin-left: 2px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li {min-width: auto;}
+.add-accident:before, .add-accident:after{right: 130px;}
+/* Emp sign page */
+.signature-page .policy-field-wapper .form-group .iniitalsignimg.col-sm-2{max-width: 100%; float: none;margin-top: 10px; display: block; width: 33%;}
+.customer-quote img.calender-icon {right: 15px;}
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li{padding: 15px 0;}
+}
+
+
+@media only screen and (max-width: 767px) {
+.login-section{background-position: left 34px;  margin: 20px 0;background-size: auto 40%; min-height: 460px;}
+.login-section.section-bg-mobile{background-position: left center;background-size: 100%;}
+.admin-dashboard.navbar-inverse .navbar-brand img{width: 120px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{position: absolute;}
+.admin-dashboard.navbar-inverse .header-top-div  .navbar-nav > li {display: inline-block;}
+.admin-dashboard .header-top-div .navbar-nav .open .dropdown-menu{position: absolute;background-color: #fff;border: 1px solid rgba(0,0,0,.15);box-shadow: 0 6px 12px rgba(0,0,0,.175); /*left: inherit;right: 0;*/}
+.admin-dashboard .header-bottom-div .navbar-collapse{border:none;box-shadow: inherit; }
+.admin-dashboard.navbar-inverse .navbar-nav.navbar-right{margin-top: 0; margin-bottom: 0;}
+.admin-dashboard .header-top-div {position: absolute; top:0px; right:20px;}
+.admin-dashboard.navbar-inverse .navbar-brand{padding-left: 0;}
+.admin-dashboard.navbar-inverse .navbar-toggle{margin-top: 13px;}
+.admin-dashboard .header-top-div .dropdown a{padding-right: 0; padding-left: 10px;}
+.admin-dashboard .header-top-div .navbar-nav .dropdown:last-child .dropdown-menu{left: inherit; right: 0;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{left: inherit; right:0px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 21px;}
+.admin-sidemenu.sidemenu{ top:56px;}
+.table-filter{float: none;width: 100%;}
+.manage-user h2{font-size: 28px;}
+.table-filter .btn-red{margin-bottom: 10px;}
+.employee-dashboard.navbar-inverse .navbar-brand img{width: 120px;}
+.policy-chart{margin-bottom: 15px;}
+.policy-box ul{text-align: center;}
+/* New Dropdown (finance) css start */
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right .dropdown:hover .dropdown-menu{display: contents;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right ul.dropdown-menu li a{border-bottom: 1px solid #fba131;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li a:after{content: none;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right li a .visible-xs{display: inline-block !important;}
+.employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right ul.dropdown-menu li.active a, .employee-dashboard .header-bottom-div .navbar-collapse .nav.nav.navbar-right ul.dropdown-menu li a:hover {background: #fff;color: #fba131;}
+/* New Dropdown (finance) css end */
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{position: absolute;}
+.employee-dashboard.navbar-inverse .header-top-div  .navbar-nav > li {display: inline-block;}
+.employee-dashboard .header-top-div .navbar-nav .open .dropdown-menu{position: absolute;background-color: #fff;border: 1px solid rgba(0,0,0,.15);box-shadow: 0 6px 12px rgba(0,0,0,.175); /*left: inherit;right: 0;*/}
+.employee-dashboard .header-bottom-div .navbar-collapse{border:none;box-shadow: inherit; }
+.employee-dashboard .header-top-div {position: absolute; top:4px; right: 80px;}
+.employee-dashboard.navbar-inverse .navbar-brand{padding-left: 0;}
+.employee-dashboard.navbar-inverse .navbar-toggle{margin-top: 13px;}
+.employee-dashboard .header-top-div .dropdown a{padding-right: 0; padding-left: 10px;}
+.employee-dashboard .header-top-div .navbar-nav .dropdown:last-child .dropdown-menu{left: inherit; right: 0;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{left: inherit; right:0px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 21px;}
+.quote-main .well-main .form-group{margin-bottom: 15px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li{display:table-cell;width: 1%;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 22%; margin-right: 10px;}
+ .quote-main .well .dob .date-day{margin-left: 10px;}
+.quote-main .well .dob .date-year{ width: 36%; margin-left: 10px; margin-right: 10px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{margin-bottom: 0;font-size: 12px; }
+/*.quote-main.with-nav-tabs.panel-primary .nav-tabs > li.active > a:before{left: 37%;}*/
+.quote-main .well .control-label{font-size: 14px;}
+.driver-information-form .btn-orange{float: right; margin-top: 20px;}
+.quote-main .vehicle-information-form .well .quote-radio-main .radio{margin-right: 10px;}
+.quote-main .vehicle-information-form .well .quote-radio-main:last-child .radio:last-child{margin-right: 0;}
+.quote-main .well.additional-information .control-label{padding-top: 0;}
+.additional-information-form{ padding-left: 0; padding-right: 0; }
+.notification-method .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) { width: 90%;}
+.policy-left{margin-top: 30px;}
+.policy-limit .control-label.col-sm-3, .policy-limit .control-label.col-md-5{font-size: 15px; }
+.policy-limit .col-sm-6:first-child .col-md-7{padding-right: 15px;}
+.policy-limit .col-xs-12:first-child {margin-bottom: 15px;}
+.search-policy{padding: 50px 0 0;}
+.filter-search .form-group{margin-bottom:15px;}
+.policy-right .re-quote .btn{margin-bottom: 0px;}
+.tab-left-arrow{display: none;}
+.tab-right-arrow{display: none;}
+
+
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-header { padding: 5px 0;}
+.customer-start h2{font-size:20px; margin-top: 0;}
+.customer-quote .customer-start{padding-top: 24px;}
+.customer-quote .customer-start .start-form{margin-top: 18px;}
+/* .customer-quote .customer-start .start-form .col-sm-6, .customer-quote .customer-start .start-form .col-md-8, .customer-quote .customer-start .start-form .col-md-6, .customer-quote .customer-start .start-form .form-group.customer-address .col-md-3:last-child, .customer-quote .customer-start .start-form .last-name{margin-top: 10px;} */
+/* .customer-quote .customer-start .start-form .form-group.customer-address .col-xs-3:last-child, .customer-quote .customer-start .start-form .col-xs-3, .customer-quote .customer-start .start-form .col-xs-12, .customer-quote .customer-start .start-form .col-xs-4{padding-right: 0;} */
+.customer-quote .customer-start .bootstrap-select .btn.btn-default, .customer-quote .customer-start .form-control{font-size: 13px;}
+.customer-quote .customer-start .start-form .btn-orange{display: table; margin: 0 auto; max-width: 253px;line-height: 32px;}
+.info-disclosure{padding: 10px 0;}
+.customer-quote.quote-main.panel.with-nav-tabs.panel-primary{ margin-bottom: 0;}
+/*.customer-quote .customer-start{padding-bottom: 20px;}*/
+.customer-quote .customer-driver{padding-top: 0;}
+.customer-driver h2{font-size: 20px;}
+.driver-list > .btn-red, .customer-driver .well h3{font-size: 16px;}
+.customer-driver .well h3{line-height: 20px;}
+/* .customer-driver-details .col-md-2, .customer-driver-details .select-dropdown{padding-right: 0;} */
+.customer-driver-details .bootstrap-select .btn.btn-default, .customer-driver-details .form-control{font-size: 13px;}
+.radio-label{min-width: 120px;}
+.customer-driver-details .radio .magic-radio + label{min-width: 70px;}
+/* .customer-driver-details .col-md-6, .license-details .col-sm-6.select-state-country, .license-details .col-sm-6{padding-right: 0;} */
+.driver-optional i{right: 16px;}
+.driver-optional .form-control{padding-right: 34px;}
+.customer-driver-details hr{margin: 0px 0 15px;}
+.customer-footer hr{margin-top: 10px;}
+/*.customer-driver-details .radio-label.marital-status{ margin-left: 0px;}*/
+.license-details .mb15.choose-radio-full .radio-label{display: inline-block;}
+.customer-driver-details .choose-radio .radio-label, .customer-driver-details .form-group.license-details .choose-radio .radio-label{display: inline-block;min-width: auto;margin: 3px 0;}
+.customer-driver-details .choose-radio.mb-0 .radio-label{margin-bottom: 0;margin-top: 15px;}
+/* .customer-vehicle-details .vehicle-coverages .form-group .col-sm-6.vehicle-liability, .customer-vehicle-details .vehicle-coverages .form-group .col-sm-6, .customer-vehicle-details .form-group.vehicle-details .col-sm-4, .customer-vehicle-details .vehicle-coverages .form-group .col-sm-4:last-child, .customer-vehicle-details .col-sm-4{padding-right: 0;} */
+.customer-discount-details hr{margin-top: 0px; margin-bottom: 10px;}
+/*.customer-discount-details h3{margin-bottom: 0;}*/
+
+.violations-popup.policyproducer-popup table tbody{ display: table-row-group;}
+.violations-popup.policyproducer-popup table thead{ display: table-header-group;}
+.violations-popup.policyproducer-popup table tbody tr{ display: table-row;}
+
+/** Customer rate Page **/
+.customer-quote.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote.customer-driver h4 {font-size: 16px;margin-top: 10px;}
+.customer-quote.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote.customer-driver h1 {font-size: 22px;margin-bottom: 20px;}
+.select-policy {padding: 17px 0 44px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li > a span.text-red:first-child{font-size: 14px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li > a span:last-child{font-size: 12px;}
+.customer-quote.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote.customer-driver .p-0{padding-right: 0;padding-left: 0}
+.select-policy h3 {font-size: 20px;margin: 12px 0 20px;}
+.select-policy-outer {margin: 0 6px;max-width: 330px;margin: 0 auto;}
+.select-policy-outer .policy-detail {width: 328px;height: 328px;margin-left: 0;margin-top: -5px;}
+.select-policy-outer .policy-text h4 {font-size: 35px;}
+.select-policy-outer .policy-text hr {margin: 0 auto 17px;}
+.select-policy-outer .policy-text{padding: 0 60px;}
+.select-policy-outer ul.list-unstyled{padding: 18px 0 60px;margin-right: 26px;}
+.select-policy-outer ul.list-unstyled > li, .select-policy-outer ul.list-unstyled > li > strong{font-size: 14px;}
+.select-policy-outer ul.list-unstyled > li:first-child {margin-left: 0;margin-top: 0;padding-left: 30px;}
+.select-policy-outer ul.list-unstyled > li:nth-child(2) {margin-left: 0px;padding-left: 30px;}
+.select-policy-outer ul.list-unstyled > li:nth-child(3) {margin-left: 0px;padding-left: 30px;}
+.select-policy-outer ul.list-unstyled > li:nth-child(4) {margin-left: 4px;padding-left: 25px;}
+.select-policy-outer ul.list-unstyled > li:nth-child(5) {margin-left: 28px;padding-left: 0;}
+.policy-coverage h3 {margin: 0 0 12px;}
+/* .customer-discount-details .col-sm-7{padding-left: 15px;padding-right: 15px;} */
+.policy-coverage .bg-gray .form-group label.control-label {font-size: 14px;text-align: left;margin-left: 15px;padding: 0;}
+.policy-coverage.customer-driver-details .bootstrap-select .btn.btn-default, .policy-coverage.customer-driver-details .form-control, 
+.policy-coverage.customer-driver-details .bootstrap-select .btn.btn-default{font-size: 12px;}
+.policy-coverage.customer-discount-details .control-label, .get-started-quote h4, .get-started-quote h5{font-size: 14px;}
+.policy-coverage form .p-0 {padding-left: 0;padding-right: 0;}
+.policy-coverage.customer-driver-details .bootstrap-select.btn-group .dropdown-toggle .caret {width: 38px;}
+.customer-driver-details.policy-coverage .col-md-6{padding-left: 0;padding-right: 0;}
+.customer-driver-details.policy-coverage .btn-red, .customer-driver-details.policy-coverage .btn-green{padding: 4px 12px;font-size: 13px;margin: 5px;}
+.re-quote h4{font-size: 16px;}
+.customer-driver-details.policy-coverage .re-quote{text-align: center;}
+.customer-driver-details.policy-coverage .re-quote h4 {text-align: left;}
+.get-started-quote{margin-left: 0;text-align: center;width: 100%;padding: 0;margin: 0 auto;margin-top: 10px;}
+.get-started-quote .list-inline>li .btn-red {margin-bottom: 8px;margin-left: 0;}
+.customer-driver-details.policy-coverage .re-quote {margin: 20px 0;}
+.footer-select-policy .select-policy-outer {border: none;background: transparent;}
+.footer-select-policy .select-policy-outer ul.list-unstyled {display: none;}
+.select-policy-outer .policy-detail .btn-red{bottom: -7px;}
+
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li > a {padding-top: 6px;padding-bottom: 7px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li:last-child{border-right: 0;}
+.add-accident:before, .add-accident:after{right:inherit; left: 0px;}
+.accident-dropdown{padding: 30px 20px 10px;}
+/**** Pull up your quote ****/
+.retrive-vehiclebyquote .tab-content .form-group .pr-0{padding-right: 15px;}
+.retrive-vehiclebyquote .tab-content .form-control {margin-bottom: 15px;}
+.pullyour-quote.customer-quote .customer-start{padding-top: 15px;}
+
+.delete-violation{right: 5px;}
+.divider-or:before, .divider-or:after{width: 43%;}
+.customer-discount-details .control-label{padding-top: 5px;}
+.policy-coverage.customer-discount-details .control-label {margin-bottom: 5px;}
+.bootstrap-select.btn-group .dropdown-menu li a{font-size: 14px;}
+.customer-driver-details .control-label{font-size: 15px;}
+.pullyour-quote .h2-no-record-message {font-size: 18px;}
+.retrive-vehiclebyquote .tab-content .form-control.mb-0{margin-bottom: 0;}
+.thankyou-main .thankyoucontent{padding: 40px 20px;}
+/** Admin Rate page Btn */
+.policy-detail .btn-red{bottom: 0;}
+
+/* .policy-vehicle-details .policy-field-wapper > ul > li{width: 100%;} */
+/** lianholder css start **/
+.lianholder typeahead-container.dropdown.open {width: 95%;}
+.lianholder typeahead-container.dropdown.open ul.dropdown-menu {width: 100%;}
+/** lianholder css end **/
+/* Policy Detail page Military Address start */
+.policy-main.quote-main .well.additional-information .control-label.pom{display: none;}
+/* Policy Detail page Military Address end */
+.pl5, .pr5{padding: 0 5px;}
+
+.customeralreadyexist .text-right {text-align: left !important;margin-top: 10px;}
+.policy-main.quote-main .tab-content .well .transaction-details-paymentpopup .payment-scheduled-popupinner{width: 70%;}
+.policy-main.quote-main .tab-content .well.usereditpasslinkouter h3{display: inline-block;}
+.usereditpasslink a {float: left;padding: 0 0 14px;font-size: 13px;line-height: 15px;}
+}
+
+
+@media only screen and (max-width: 640px) {
+.admin-sidemenu #sidebar.sidebar-offcanvas{margin-left: -260px;}
+.admin-sidemenu #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 280px;}
+.admin-sidemenu #sidebar{ min-width: 260px; max-width: 260px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas{margin-left: -260px;}
+.employee-offcanvas #sidebar.sidebar-offcanvas.active ~ #main{padding-left: 280px;}
+.employee-offcanvas #sidebar{ min-width: 260px; max-width: 260px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop{ min-width: 300px; left: -140px;}
+.employee-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right: 130px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop{ min-width: 300px; left: -160px;}
+.admin-dashboard.navbar-inverse .dropdown-menu.notify-drop .notify-drop-title:before{right:109px;}
+.manage-user .panel-heading{padding:15px 10px;}
+.manage-user .panel-heading .checkbox label{font-size: 14px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{padding: 10px 8px;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{width: 18%}
+.quote-main .well .quote-radio-main .radio{margin-right: 20px;}
+.quote-btns .btn-red, .quote-btns .btn-orange{min-width: 180px;}
+.quote-main.panel.with-nav-tabs .panel-heading .col-xs-12{padding-left:0px; padding-right:0px;}
+
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{font-size: 11px; padding: 10px 0px; font-weight:400;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary .nav-tabs > li > a{font-weight:500;}
+
+.quote-main .vehicle-information-form .well .quote-radio-main{width: 100%;}
+.fetching-premium {padding: 30% 0 30% 0;}
+
+
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+
+.violations-popup.policyproducer-popup table tbody{max-height: 290px;}
+/*Policy Details Page Css*/
+.policy-main.quote-main .tab-content h2{font-size: 20px; margin-bottom: 15px;}
+/* .policy-main.quote-main .tab-content .policy-field-wapper{padding: 20px 10px 10px;} */
+.policy-field-wapper > ul > li{font-size: 14px;}
+.excluded-drivers ul {text-align: center;}
+.policy-vehicle-details .policy-field-wapper > ul > li span{ min-width: 70px;/*  display: block;   */margin-right: 0;}
+.policy-vehicle-details .policy-field-wapper > ul > li, .policy-field-wapper > ul > li span, .policy-field-wapper > ul.included-driver > li{margin-right: 10px;}
+/*Policy Details Page Css End*/
+
+
+}
+
+@media only screen and (max-width: 639px) {
+ /* Force table to not be like tables anymore */
+.policy-right #no-more-tables table, 
+.policy-right #no-more-tables thead, 
+.policy-right #no-more-tables tbody, 
+.policy-right #no-more-tables th, 
+.policy-right #no-more-tables td, 
+.policy-right #no-more-tables tr { 
+	display: block; 
+}
+/* Hide table headers (but not display: none;, for accessibility) */
+.policy-right #no-more-tables thead tr { 
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+.policy-right #no-more-tables tr { border: 1px solid #ccc; }
+.policy-right #no-more-tables td { /* Behave  like a "row" */border: none;border-bottom: 1px solid #eee; position: relative;padding-left:60%; white-space: normal;text-align:left;}
+.policy-right #no-more-tables td:before { /* Now like a table header */position: absolute;/* Top/left values mimic padding */top: 6px;left: 6px;	width:50%; padding-right: 10px; 	white-space: nowrap;
+text-align:left;font-weight:500;}
+/*
+Label the data
+*/
+.policy-right #no-more-tables td:before { content: attr(data-title); }
+.policy-mobile ul li.panel-deluxe, .policy-mobile ul li.panel-standard, .policy-mobile ul li.panel-economy{padding: 14px 10px;}
+.policy-info ul li{padding: 0;}
+.policy-info ul{margin-bottom: 10px;}
+.re-quote .col-xs-6, .policy-limit .col-sm-8.col-md-9.col-xs-9, .policy-limit .control-label.col-md-3, .policy-limit .control-label.col-md-5, .policy-limit .col-sm-12.col-md-7.col-xs-9, .policy-limit .control-label.col-sm-3, .policy-limit .control-label.col-md-5{width: 100%;}
+.policy-limit .col-xs-12:first-child{margin-bottom: 0;}
+.re-quote .col-xs-6:first-child{text-align: center;}
+.search-policy .panel-heading .col-xs-6 {width: 100%;}
+.filter-search .form-group .col-xs-6, .search-policy .table-search{margin-bottom: 10px;}
+.filter-search .form-group .col-xs-6:last-child{margin-bottom: 0;}
+.policy-right .re-quote .btn{margin-bottom: 6px;}
+/*Policy Payment Page Css*/
+.policy-payvia ul li{ width: 100%; }
+/*Policy Payment Page Css End*/
+/*Policy Payment Page Css */
+.acknowledgements .checkbox .text{ font-size: 13px; }
+/*Policy Payment Page Css End*/
+.quote-main .tab-content .well.additional-information.upload-document-page h3 {padding: 8px 50px 8px 18px;line-height: 25px;}
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-quote.quote-main.with-nav-tabs.panel-primary .nav-tabs > li a {padding: 1px 5px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li > a span.text-red:first-child{font-size: 12px;}
+.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li > a span:last-child{font-size: 11px;}
+.customer-driver .well h3{width: 60%;}
+/* Landing Page css start */
+.landing-header img.landing-logo{max-height: 35px;}
+.landing-header .list-inline>li{padding:7px 0;font-size: 13px;}
+.landing-header .list-inline>li:first-child{padding-right: 11px;}
+.landing-header .list-inline>li img{height: 18px;}
+/* Landing Page css end */
+/** lianholder css start **/
+.lianholder typeahead-container.dropdown.open {width: 93%;}
+.lianholder typeahead-container.dropdown.open ul.dropdown-menu {width: 100%;}
+/** lianholder css end **/
+/** Upload Document Page css start **/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg, .policy-main.quote-main .tab-co	ntent .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg {
+    width: 29.35%;
+    height: auto;
+}
+/** Upload Document Page css end **/
+
+/** New css start 06122018**/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li{padding: 15px 0;}
+/** New css end 06122018**/
+}
+
+@media only screen and (max-width: 480px) {
+.table-filter .col-sm-7.col-xs-8.col-lg-5{width: 100%;}
+.quote-main.panel.with-nav-tabs .panel-heading{padding: 0;}
+/*.quote-main.with-nav-tabs.panel-primary .nav-tabs > li{display: table-cell; vertical-align: middle;}*/
+/*.quote-main.with-nav-tabs.panel-primary .nav-tabs > li.active > a:before{display: none;}*/
+.quote-main .panel-body{padding-left: 0; padding-right: 0;}
+.quote-main .well .dob .date-month, .quote-main .well .dob .date-day{margin-right: 5px;}
+.quote-main .well .dob .date-day{margin-left: 5px;}
+.quote-main .well .dob .date-year{margin-left: 5px; margin-right: 5px;width: 32%;}
+.quote-main .well .control-label{font-size: 14px;}
+.quote-main .well-main .quote-radio-main{width: 100%;}
+.form-wrap .form-group.col-xs-6, .well.well-main .form-group.col-xs-6, .well.well-main .form-group.col-sm-2.col-xs-6, .well.well-main .form-group.col-sm-4.col-xs-6, .quote-main .well.personal-info .form-group.col-xs-6, .quote-main .well.address-main .form-group.col-sm-2.col-xs-4, .quote-main .well.address-main .form-group.col-sm-5.col-xs-4, .quote-main .well.address-main .form-group.col-xs-4.col-sm-3, .quote-main .well.address-main .form-group.col-xs-8.col-sm-9{ width: 100%; }
+.notification-method .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn), .notification-method input.discountEmail{width: 84%;}
+.quote-btns .btn-orange{margin-right: 10px;}
+.quote-btns .btn-red, .quote-btns .btn-orange{min-width: 130px;}
+.vehicle-make-year-model .col-xs-4 {width: 100%;}
+.select-violation .col-xs-6{width: 100%;}
+.fetching-premium {padding: 35% 0 35% 0;}
+.sidenav ul.list-unstyled > li ul.list-inline li:last-child{float: none;}
+
+.violations-popup.policyproducer-popup table thead tr th{font-size: 14px;}
+/*Policy Details Page Css*/
+/*Policy Details Page Css End*/
+/**** Pull up your quote ****/
+.retrive-vehiclebyquote .nav-tabs>li>a {border-radius: 0;padding: 8px;}
+.retrive-vehiclebyquote .nav-tabs>li.active a, .retrive-vehiclebyquote .nav-tabs>li>a{font-size: 16px;}
+.customer-driver .well h3{max-width: 45%;}
+
+.signature-page .policy-field-wapper .form-group .iniitalsignimg.col-sm-2{width: 50%;}
+/** lianholder css start **/
+.lianholder typeahead-container.dropdown.open {width: 90%;}
+.lianholder typeahead-container.dropdown.open ul.dropdown-menu {width: 100%;}
+/** lianholder css end **/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg, .policy-main.quote-main .tab-co	ntent .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg {width: 44%;height: auto;}
+/** New css start 06122018**/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li{padding: 10px 0;}
+/** New css end 06122018**/
+}
+
+@media only screen and (max-width: 400px) {
+.quote-main.with-nav-tabs.panel-primary .nav-tabs{display: table; margin: 0 auto;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li{    width: initial;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li a{padding: 10px 4px;}
+.quote-main.with-nav-tabs.panel-primary .nav-tabs > li:first-child a{padding-left: 9px;padding-right: 9px;}
+
+.fetching-premium {padding: 35% 0 35% 0;}
+/*Policy Payment Page Css */
+.policy-card-details .policy-field-wapper .form-group:last-child .col-sm-4:last-child .form-control{width:71%;}
+/*Policy Payment Page Css End*/
+
+/* customer footer start*/
+.customer-footer li.call-details{text-align: center;}
+.customer-footer li.call-details img{position: absolute;left: 14%;margin-right: 0;}
+/* customer footer end*/
+/** New css start 06122018**/
+.policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg, .policy-main.quote-main .tab-co ntent .policy-field-wapper .upload-more-outer .list-inline>li, .policy-main.quote-main .tab-content .policy-field-wapper .upload-more-outer .list-inline>li.carimg{width: 43%;}
+/** New css end 06122018**/
+}
+
+@media only screen and (min-width:992px) {
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-discount-details .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width: 86%;}
+/*.customer-discount-details i{margin-top: 0;}*/
+
+/*.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li{min-width: 22.3%;}*/
+.customer-quote.quote-main.panel.with-nav-tabs.panel-primary.rate-tab .panel-body .your-quote.customer-driver .nav-tabs {display: block;}
+}
+
+
+@media only screen and (min-width: 768px) {
+.driver-information-form .row {white-space: nowrap; }
+.driver-information-form .row .col-md-5, .driver-information-form .row .col-sm-2 { display: inline-block; float: none; vertical-align: top;}
+.dont-collapse{display: block; height: auto !important; visibility: visible;}
+.drag-scroll-wrapper .drag-scroll-content .nav-tabs.nav-justified>li{ display: table-cell !important;}
+/*Policy Details Page Css*/
+
+/*Policy Details Page Css End*/
+
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-btm-btn{text-align:right;}
+.customer-driver-details .accidents-violations .radio{ margin-top: 0;}
+}
+
+@media screen and (max-height: 450px) {
+  /*.sidenav {padding-top: 15px;}*/
+  .sidenav a {font-size: 18px;}
+
+}
+
+@media screen and (max-width: 359px) {
+/****************************************************
+        Customer Page CSS
+*****************************************************/
+.customer-driver-details .radio-label{display: block; min-width: inherit;}
+.customer-driver-details .radio{margin-top:0;}
+.add-accident:before, .add-accident:after{left: -1px;}
+
+.select-policy-outer .policy-text {padding: 0 50px;}
+.select-policy-outer .policy-text h4 {font-size: 30px;margin: 0;}
+.select-policy-outer .policy-detail {width: 280px;height: 280px;margin-left: 0;margin-top: -5px;}
+.select-policy-outer .policy-detail{margin-bottom: 30px;}
+.select-policy-outer ul.list-unstyled > li, .select-policy-outer ul.list-unstyled > li > strong {font-size: 12px;}
+.select-policy-outer {margin: 0 6px;max-width: 280px;margin: 0 auto;}
+.select-policy-outer .policy-text h3{font-size: 15px;}
+.select-policy-outer .policy-detail .btn-red{bottom: -2px;}
+/*.customer-quote.quote-main.with-nav-tabs.panel-primary.rate-tab .panel-body .nav-tabs > li{min-width: 66px;}*/
+.customer-driver .well h3{max-width: 38%;}
+
+/** Customer Rate page Finish and Buy Btn css start **/
+.select-policy-outer .policy-text hr{margin: 0 auto 5px;}
+.select-policy-outer .policy-text h3{margin: 8px 0;}
+/** Customer Rate page Finish and Buy Btn css end **/
+/* Landing Page css start */
+.landing-header .list-inline>li{padding:6px 0;font-size: 11px;}
+.landing-header .list-inline>li:first-child{padding-right: 10px;}
+.landing-header .list-inline>li img{height: 18px;}
+/* Landing Page css end */
+
+/** New css start 06122018**/
+.plr, .pl5, .pr5 {padding: 0 1px;}
+.quote-main .well .control-label{font-size: 13px;}
+/** New css end 06122018**/
+}

@@ -1,0 +1,42 @@
+
+  
+    <section class="login-section">
+      <div class="container">
+    
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+          
+            
+          <form [formGroup] = "loginForm" (ngSubmit) = "submitForm(loginForm.value)" novalidate="">
+            <h2>Login</h2>
+            <div id="withoutMacLogin">
+              <div class="form-group">
+                <input  class="form-control ng-untouched ng-pristine ng-invalid" formControlName="username" name="username"  placeholder="username" required="" type="text">
+                
+              </div>
+              
+              <div class="form-group">
+                <input class="form-control ng-untouched ng-pristine ng-invalid" formControlName="password" name="password"   placeholder="Password" required="" type="password">
+             
+              </div>
+            </div>
+          
+
+            <div class="form-group">
+              <div class="checkbox">
+                
+                <span>Not Registered?<button (click)="signup();">Signup</button></span>
+              </div>
+            </div>
+            
+             <button type = "submit"  class="form-control" value = "Log In">Submit</button>
+            </form>
+        </div>
+      </div>
+      </div>
+  </section>
+
+
+
+
+

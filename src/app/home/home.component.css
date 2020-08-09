@@ -1,0 +1,25 @@
+#mybody
+{
+text-align: center;
+background-image: url('../../assets/login-bg.jpg');
+background-repeat: no-repeat;
+height: 600px;
+max-width: 100%;
+background-size: 80% 65%;    
+background-position: 30% 100%;
+}
+
+#mydiv
+{
+background: white;
+height: 60%;
+width: 30%;
+margin-top: 50%;
+display: inline-block;
+opacity: 0.9;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.landing-header{
+
+}
